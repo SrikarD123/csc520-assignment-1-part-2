@@ -1,10 +1,11 @@
 # CSC 520 ASSIGNMENT 01_PART_02
+This is a repository for the Spring 2026's CSC 520 section submission of Assignment 1 Part 2.
+
+
 Members: 
 - Srikar Desemsetti ( SPDESEMS )
 - Lawrence Arkoh ( LARKOH )
 
-# csc520-assignment-1-part-2
-This is a repository for the Spring 2026's CSC 520 section submission of Assignment 1 Part 2. This contains the work for both Srikar Desemsetti and Lawrence Arkoh.
 
 # Underwater Submarine Rescue — CSC520 Assignment 1
 
